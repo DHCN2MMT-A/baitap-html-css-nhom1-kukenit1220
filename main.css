@@ -1,0 +1,46 @@
+
+.head {
+    width: 100%;
+    background-color: rgb(255, 187, 0);
+    padding:16px ;
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("img/13.jpg");
+    width: 100%;
+    /* background-repeat: no-repeat; */
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+#tb{
+    width: 100%;
+}
+img{
+    border-radius: 100px;
+    width: 600px;
+}
+td {
+    text-align: center;
+    font-size: 24px;
+    color: rgb(21, 233, 67);
+}
+nav a {
+    padding:16px;
+}
+.footer{
+    width: 100%;
+    background-color: rgb(255, 187, 0);
+    padding:16px ;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.footer nav {
+    display: flex;
+    align-items: center;
+}
